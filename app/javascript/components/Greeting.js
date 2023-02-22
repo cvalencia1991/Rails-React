@@ -15,7 +15,9 @@ const Greeting = () => {
 
     return (
         <div>
+
             <h1>{greetings.message}</h1>
+
         </div>
     );
 }
